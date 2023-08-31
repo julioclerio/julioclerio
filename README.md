@@ -3,7 +3,7 @@
 ## Data Analyst and Scientist 
 
 ### Overview
-Welcome to my GitHub profile! I am Clério Julio Fernandes Jr., a professional in the process of transitioning of Data Science. 
+Welcome to my GitHub profile! I am Clério Julio Fernandes Jr., a professional in the process of transitioning to Data Science. 
 
 ### Toolbox
 
@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I am Clério Julio Fernandes Jr., a professional i
 - Executive MBA in Capital Markets and Derivatives
 
 ### Journey
-My journey involves transitioning to Data Science. Armed with programming skills, data manipulation, and visualization tools, I delve into complex datasets to extract insights.
+My journey involves transitioning to Data Science. Armed with programming skills, data manipulation, and visualization tools.
 
 ### Let's Connect!
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/clerio-fernandes) for networking and discussions.
