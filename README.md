@@ -7,22 +7,22 @@ Welcome to my GitHub profile! I am Clério Júlio Fernandes Jr., a professional 
 
 ### Toolbox
 
-![Python](https://img.shields.io/badge/Python-Intermediate-blue)
-![SQL](https://img.shields.io/badge/SQL-Advanced-orange)
+![Python](https://img.shields.io/badge/Python)
+![SQL](https://img.shields.io/badge/SQL
 
-![Excel](https://img.shields.io/badge/Excel-Intermediate-blue)
+![Excel](https://img.shields.io/badge/Excel)
 
-![Power BI](https://img.shields.io/badge/Power_BI-Intermediate-orange)
-![Google Analytics](https://img.shields.io/badge/Google_Analytics-Intermediate-orange)
-![Looker](https://img.shields.io/badge/Looker-Intermediate-orange)
+![Power BI](https://img.shields.io/badge/Power_BI)
+![Google Analytics](https://img.shields.io/badge/Google_Analytics)
+![Looker](https://img.shields.io/badge/Looker)
 
-![MySQL](https://img.shields.io/badge/MySQL-Intermediate-blue)
-![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-green)
-![PostgreSQL](https://img.shields.io/badge/PostGIS/PostgreSQL-Intermediate-blue)
+![MySQL](https://img.shields.io/badge/MySQL)
+![MongoDB](https://img.shields.io/badge/MongoDB)
+![PostgreSQL](https://img.shields.io/badge/PostGIS/PostgreSQL)
 
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-Intermediate-blue)
-![AWS](https://img.shields.io/badge/AWS-Intermediate-orange)
-![Azure](https://img.shields.io/badge/Azure-Intermediate-blue)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud)
+![AWS](https://img.shields.io/badge/AWS)
+![Azure](https://img.shields.io/badge/Azure)
 
 ### Learning Path
 - MBA in Marketing, University of São Paulo (USP)
@@ -36,7 +36,7 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/cleriojul
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-brightgreen)](https://github.com/cleriojulio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/cleriojulio)
-[![Dev.to](https://img.shields.io/badge/Dev.to-Articles-black)](https://dev.to/cleriojulio)
+
 
 ---
 Explore my repositories to follow along with my Data Science endeavors.
