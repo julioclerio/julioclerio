@@ -32,7 +32,7 @@ My journey involves transitioning to Data Science. Armed with programming skills
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/clerio-fernandes) for networking and discussions.
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-brightgreen)](https://www.linkedin.com/in/clerio-fernandes)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/cleriojulio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/clerio-fernandes)
 
 ---
 Explore my repositories to follow along with my Data Science endeavors.
