@@ -1,6 +1,6 @@
 # Clério Júlio Fernandes Jr.
 
-## Data Analyst and Scientist in Transition
+## Data Analyst and Scientist 
 
 ### Overview
 Welcome to my GitHub profile! I am Clério Júlio Fernandes Jr., a professional in the process of transitioning of Data Science. 
