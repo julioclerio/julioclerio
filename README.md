@@ -29,9 +29,9 @@ Welcome to my GitHub profile! I am Clério Júlio Fernandes Jr., a professional 
 My journey involves transitioning to Data Science. Armed with programming skills, data manipulation, and visualization tools, I delve into complex datasets to extract insights.
 
 ### Let's Connect!
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/clerio-fernandes/) for networking and discussions.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/clerio-fernandes) for networking and discussions.
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-brightgreen)](https://www.linkedin.com/in/clerio-fernandes/)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-Profile-brightgreen)](https://www.linkedin.com/in/clerio-fernandes)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/cleriojulio)
 
 ---
