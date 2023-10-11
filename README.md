@@ -3,7 +3,7 @@
 ## Data Analyst and Scientist 
 
 ### Overview
-Welcome to my GitHub profile! I am Clério Julio Fernandes Jr., a professional in the process of transitioning to Data Science. 
+Aiming to establish myself as a Data Science professional, my foundation includes participation in Santander Coders 2023 Data Scientist Bootcamp and MBAs in Marketing and Capital Markets and MBA in Marketing. With postgraduate studies in Software Engineering, I’m eager to embrace challenges in Data Science, continually learning and innovating. Open to collaborations and connections with professionals and mentors in the field, I am ready to actively explore and contribute to the dynamic world of data.
 
 ### Toolbox
 
